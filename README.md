@@ -10,3 +10,6 @@
 -   Will include items about the main LLMs NMG works with; Gemini, ChatGPT, OpenSource, etc.
 -   Will also include items about prompt engineering, how AI works, etc.
 -   Should also include resources that NMG has access to paid and free versions.
+### General Knowledge
+- Current Meetings for the Year.
+- https://lmarena.ai/leaderboard 
